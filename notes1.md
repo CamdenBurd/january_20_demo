@@ -1,2 +1,0 @@
-# Header
-This is a note for testing things out. 
